@@ -822,33 +822,6 @@
 	<h6 class="font-weight-bold">(FOR PAY ROLL - DEDUCTION <a href="deduct.php">CLICK HERE</a>)</h6>
     <p class="font-weight-bold ml-3"><span>DATE : </span><span id="demo"></span>/<span id="demo1">
     </span>/<span id="demo2"></span></p>
-	<div>
-		<select id="month" name="month">
-			<option>Select Month</option>
-			<option>January</option>
-			<option>February</option>
-			<option>March</option>
-			<option>April</option>
-			<option>May</option>
-			<option>June</option>
-			<option>July</option>
-			<option>August</option>
-			<option>September</option>
-			<option>October</option>
-			<option>November</option>
-			<option>December</option>
-		</select>
-		<select id="year" name="year">
-			<option>Select Year</option>
-			<option>2019</option>
-			<option>2020</option>
-			<option>2021</option>
-			<option>2022</option>
-			<option>2023</option>
-			<option>2024</option>
-			<option>2025</option>
-		</select>
-	</div>
     <img src="img/logo.png" height="80" width="80" style="margin-top: -150px">
     <button name="create_excel" id="create_excel" class="btn btn-danger" style="margin: -150px 0 0 1000px" onclick="main()" >Print</button>
 	

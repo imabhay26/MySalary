@@ -2,7 +2,7 @@
 
 
 		$db = new SQLite3('realdb.db');
-		$sql_query="SELECT * FROM datafield  WHERE refno=28";
+		$sql_query="SELECT * FROM datafield  WHERE refno=12";
 		$results = $db->query($sql_query );
 		while ($row = $results->fetchArray())
 		{

@@ -56,7 +56,7 @@
     </tr>
     <tr>
         <td>REF.NO.</td>
-        <td>10</td>
+        <td>11</td>
     </tr>
     <tr>
         <td>PAY IN PAY BAND</td>
@@ -112,7 +112,7 @@
     </tr>
     <tr>
         <td>P.O.L.</td>
-        <td><?php echo $pol10 ?></td>
+        <td><?php echo $pol11 ?></td>
     </tr>
     <tr>
         <td>OTHER DED. IF ANY</td>
